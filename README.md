@@ -1,11 +1,12 @@
-#Hello
+# Hello
 
+ -  I’m currently working on: Nao estou trabalhando(ate agora)
+ -  I’m currently learning: CTISM informatica
+ -  I’m looking to collaborate: Em criacao de sites para novas empresas
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning: Estou aprendendo no CTISM informatica
-- 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with: 
-- 💬 Ask me about: my: ssss
-- 📫 How to reach me: guilhermefloresbattistella@gmail.com
-- 😄 Pronouns: ELE/DELE
-- ⚡ Fun fact:
+ -  I’m looking for help with: ganhar dinheiro para comprar god of war ragnarok
+ -  Ask me about: my: meu novo pc gamer de 10k 
+ -  How to reach me: guilhermebattistella@acad.ufsm.br
+
+ -  Pronouns: ELE/DELE 
+ -  Fun fact: Ja acabei com a luz de uma casa chutando uma bola de futebol e fugi
