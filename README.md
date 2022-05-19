@@ -1,4 +1,8 @@
 # Hello
+  Eu sou Guilherme Battistella
+
+   ![tatusgit](https://github-readme-stats.vercel.app/api?username=GuilhermeBattistella&show_icons=true&theme=radical)
+   
 
  -  I’m currently working on: Nao estou trabalhando(ate agora)
  -  I’m currently learning: CTISM informatica
@@ -10,3 +14,4 @@
 
  -  Pronouns: ELE/DELE 
  -  Fun fact: Ja acabei com a luz de uma casa chutando uma bola de futebol e fugi
+ 
