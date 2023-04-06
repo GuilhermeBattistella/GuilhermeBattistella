@@ -5,7 +5,7 @@
    
 
  -  I’m currently working on: Não estou trabalhando (até agora)
- -  I’m currently learning: CTISM informática
+ -  I’m currently studying at: CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio
  -  I’m looking to collaborate: Na criação de jogos
 
  -  I’m looking for help with: ganhar dinheiro para comprar god of war ragnarok
