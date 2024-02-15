@@ -7,4 +7,4 @@
  -  I’m looking to collaborate: Na criação de jogos
  -  How to reach me: guilhermebattistella@acad.ufsm.br
  
- -  PASSEI DO 1 ANO PORRAAA
+ - 3 ano
