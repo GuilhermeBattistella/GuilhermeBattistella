@@ -24,7 +24,7 @@
 </div>
 <br>
 
-# Linguagens que eu já utilizei/estou utilizando
+# Linguagens que eu já utilizei / Estou utilizando
 <div>
     <ul>
       <li>Html <img align="center" alt="Guilherme-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></li>
