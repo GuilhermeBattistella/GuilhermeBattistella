@@ -30,7 +30,7 @@
       <li>C <img align="center" alt="Guilherme-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></li>
       <li>Php <img align="center" alt="Guilherme-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></li>
       <li>Java <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></li>
-      <li>Dart <img align="center" alt="Guilherme-Dart" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"</li>
+      <li>Dart <img align="center" alt="Guilherme-Dart" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></li>
     </ul>
 </div>
 
