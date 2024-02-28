@@ -1,5 +1,8 @@
-# Hello
-  Eu sou Guilherme Battistella
+# Hi there
+  I am Guilherme Battistella (17 y.o)
+<p align="center">
+  <img src="https://socialify.git.ci/GuilhermeBattistella/GuilhermeBattistella/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="GuilhermeBattistella" width="700"        height="300" />
+</p>
  -  Estudante do CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio
  -  Interessado na criação de Apps
   - 3 ano
@@ -14,6 +17,7 @@
   
 #  Estou estudando  
 <div>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220"/>
     <ul>
       <li>Html <img align="center" alt="Guilherme-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></li>
       <li>Css <img align="center" alt="Guilherme-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></li>
@@ -33,12 +37,24 @@
       <li>Dart <img align="center" alt="Guilherme-Dart" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></li>
     </ul>
 </div>
+<br>
 
 # Contato
 
 <div>
   <a href = "mailto:guilherme.battistella@acad.ufsm.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor="white""></a>
 </div>
+<br>
+
+# My Activity
+  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBattistella&theme=github-dark-dimmed&custom_title=GuilhermeBattistella%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 
 
  
