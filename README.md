@@ -3,9 +3,24 @@
 <p align="center">
   <img src="https://socialify.git.ci/GuilhermeBattistella/GuilhermeBattistella/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="GuilhermeBattistella" width="700"        height="300" />
 </p>
- -  Estudante do CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio
- -  Interessado na criação de Apps
-  - 3 ano
+
+```css
+  .guilherme{
+    position: RS-Brazil;
+    height: 175cm;
+    display: boy;
+    color: white;
+  } 
+```
+
+```javascript
+  function guilherme(){
+    var escola =  "Estudante do CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio";
+    var interesse =  "Interessado na criação de Apps";
+    var anoEscolar =  3;
+  }
+```
+<br>
 
   <div> 
     <a href="https://github.com/GuilhermeBattistella">
