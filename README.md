@@ -62,12 +62,12 @@
 <br>
 
 # My Activity
-  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBattistella&theme=github-dark-dimmed&custom_title=GuilhermeBattistella%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBattistella&theme=high-contrast&custom_title=GuilhermeBattistella%20Activity%20Graph&hide_border=true)](https://github.com/GuilhermeBattistella/github-readme-activity-graph)
 
   
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
 
 
