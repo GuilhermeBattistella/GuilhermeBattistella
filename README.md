@@ -1,5 +1,5 @@
 # Hi there
-  I am Guilherme Battistella (17 y.o)
+  I am Guilherme Battistella (18 y.o)
 <p align="center">
   <img src="https://socialify.git.ci/GuilhermeBattistella/GuilhermeBattistella/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="GuilhermeBattistella" width="700"        height="300" />
 </p>
@@ -15,9 +15,9 @@
 
 ```javascript
   function guilherme(){
-    var escola =  "Estudante do CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio";
-    var interesse =  "Interessado na criação de Apps";
-    var anoEscolar =  3;
+    var facul = "Sistema para Internet - UFSM";
+    var escola =  "EX - Estudante do CTISM, Técnico em Informática para Internet Integrado ao Ensino Médio";
+    var interesse =  "Interessado na criação de Apps e Jogos";
   }
 ```
 <br>
